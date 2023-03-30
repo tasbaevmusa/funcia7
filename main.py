@@ -12,3 +12,5 @@ if requested_month in vacation_schedule:
     print(" ".join(vacation_schedule[requested_month]))
 else:
     print()
+
+print("Hello World!")
