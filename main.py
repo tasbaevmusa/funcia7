@@ -1,4 +1,4 @@
-n = int(input("Enter size of dictionary:"))
+cdn = int(input("Enter size of dictionary:"))
 vacation_schedule = {}
 for i in range(n):
     name, day, month = input().split()
@@ -18,3 +18,4 @@ print("Asanali fkgmklgmkgmk")
 print("ASan")
 print("Hellooooo")
 print("soz")
+print("Musa")
