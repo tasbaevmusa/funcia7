@@ -15,8 +15,4 @@ else:
 
 print("Hello World!")
 print("Asanali fkgmklgmkgmk")
-print("ASan")
-print("Hellooooo")
-print("soz")
-print("Musa")
-print('Daniyar')
+print("ASAjldsfnkjd")
